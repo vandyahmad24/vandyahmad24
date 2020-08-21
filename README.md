@@ -4,7 +4,7 @@
 
 - 🔭 I’m college student in IT Telkom Purwokerto
 - 🌱 I’m currently learning React Js, Express JS
-- 💬 My skill PHP, Laravel, Java, Vue JS
+- 💬 My skill PHP, Laravel, Codeigniter, Phalcon
 - ⚡ Fun fact: I'm find a remote job because now i'm still collage student
 - 📫 Hire me remote job by sending email ~> vandyahmad2404@gmail.com
 <!--
