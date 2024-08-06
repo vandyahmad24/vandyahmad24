@@ -2,8 +2,8 @@
 ## I'am Web Developer Programming 💻 
 
 
-- 🔭 I’m college student in IT Telkom Purwokerto
-- 💬 My skill PHP, Laravel, Phalcon, Go, Echo
+- 🔭 I’m Backend Developer with 4 Year Experience
+- 💬 My skill Golang, Echo, Gin, Fiber, Laravel, Phalcon, NodeJS, Flutter
 - 📫 Hire me by sending email ~> vandyahmad2404@gmail.com -->
 <!--
 **vandyahmad24/vandyahmad24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -25,8 +25,8 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm Vandy Ahmad</h1>
 <h3 align="center">A passionate backend developer from Indonesia</h3>
 
-- 🔭 I’m college student in IT Telkom Purwokerto
-- 💬 My skill PHP, Laravel, Phalcon, Go, Echo
+- 🔭 I’m Backend Developer with 4 Year Experience
+- 💬 My skill Golang, Echo, Gin, Fiber, Laravel, Phalcon, NodeJS, Flutter
 - 📫 Hire me by sending email ~> vandyahmad2404@gmail.com -->
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vandyahmad24&label=Profile%20views&color=0e75b6&style=flat" alt="vandyahmad24" /> </p>
